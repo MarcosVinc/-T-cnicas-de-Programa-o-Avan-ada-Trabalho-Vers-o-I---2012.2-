@@ -1,0 +1,21 @@
+C:\Users\Marcos Vinicius\source\repos\Técnicas de Programação Avançada\Sistema eletrônico de gerenciamento\bin\Debug\net5.0-windows\Sistema eletrônico de gerenciamento.exe
+C:\Users\Marcos Vinicius\source\repos\Técnicas de Programação Avançada\Sistema eletrônico de gerenciamento\bin\Debug\net5.0-windows\Sistema eletrônico de gerenciamento.deps.json
+C:\Users\Marcos Vinicius\source\repos\Técnicas de Programação Avançada\Sistema eletrônico de gerenciamento\bin\Debug\net5.0-windows\Sistema eletrônico de gerenciamento.runtimeconfig.json
+C:\Users\Marcos Vinicius\source\repos\Técnicas de Programação Avançada\Sistema eletrônico de gerenciamento\bin\Debug\net5.0-windows\Sistema eletrônico de gerenciamento.runtimeconfig.dev.json
+C:\Users\Marcos Vinicius\source\repos\Técnicas de Programação Avançada\Sistema eletrônico de gerenciamento\bin\Debug\net5.0-windows\Sistema eletrônico de gerenciamento.dll
+C:\Users\Marcos Vinicius\source\repos\Técnicas de Programação Avançada\Sistema eletrônico de gerenciamento\bin\Debug\net5.0-windows\ref\Sistema eletrônico de gerenciamento.dll
+C:\Users\Marcos Vinicius\source\repos\Técnicas de Programação Avançada\Sistema eletrônico de gerenciamento\bin\Debug\net5.0-windows\Sistema eletrônico de gerenciamento.pdb
+C:\Users\Marcos Vinicius\source\repos\Técnicas de Programação Avançada\Sistema eletrônico de gerenciamento\obj\Debug\net5.0-windows\Sistema eletrônico de gerenciamento.csproj.AssemblyReference.cache
+C:\Users\Marcos Vinicius\source\repos\Técnicas de Programação Avançada\Sistema eletrônico de gerenciamento\obj\Debug\net5.0-windows\Sistema_eletrônico_de_gerenciamento.Tela.CClientes.resources
+C:\Users\Marcos Vinicius\source\repos\Técnicas de Programação Avançada\Sistema eletrônico de gerenciamento\obj\Debug\net5.0-windows\Sistema_eletrônico_de_gerenciamento.Tela.CUsuario.resources
+C:\Users\Marcos Vinicius\source\repos\Técnicas de Programação Avançada\Sistema eletrônico de gerenciamento\obj\Debug\net5.0-windows\Sistema_eletrônico_de_gerenciamento.Form1.resources
+C:\Users\Marcos Vinicius\source\repos\Técnicas de Programação Avançada\Sistema eletrônico de gerenciamento\obj\Debug\net5.0-windows\Sistema_eletrônico_de_gerenciamento.Tela.RUsuario.resources
+C:\Users\Marcos Vinicius\source\repos\Técnicas de Programação Avançada\Sistema eletrônico de gerenciamento\obj\Debug\net5.0-windows\Sistema eletrônico de gerenciamento.csproj.GenerateResource.cache
+C:\Users\Marcos Vinicius\source\repos\Técnicas de Programação Avançada\Sistema eletrônico de gerenciamento\obj\Debug\net5.0-windows\Sistema eletrônico de gerenciamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos Vinicius\source\repos\Técnicas de Programação Avançada\Sistema eletrônico de gerenciamento\obj\Debug\net5.0-windows\Sistema eletrônico de gerenciamento.AssemblyInfoInputs.cache
+C:\Users\Marcos Vinicius\source\repos\Técnicas de Programação Avançada\Sistema eletrônico de gerenciamento\obj\Debug\net5.0-windows\Sistema eletrônico de gerenciamento.AssemblyInfo.cs
+C:\Users\Marcos Vinicius\source\repos\Técnicas de Programação Avançada\Sistema eletrônico de gerenciamento\obj\Debug\net5.0-windows\Sistema eletrônico de gerenciamento.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Vinicius\source\repos\Técnicas de Programação Avançada\Sistema eletrônico de gerenciamento\obj\Debug\net5.0-windows\Sistema eletrônico de gerenciamento.dll
+C:\Users\Marcos Vinicius\source\repos\Técnicas de Programação Avançada\Sistema eletrônico de gerenciamento\obj\Debug\net5.0-windows\ref\Sistema eletrônico de gerenciamento.dll
+C:\Users\Marcos Vinicius\source\repos\Técnicas de Programação Avançada\Sistema eletrônico de gerenciamento\obj\Debug\net5.0-windows\Sistema eletrônico de gerenciamento.pdb
+C:\Users\Marcos Vinicius\source\repos\Técnicas de Programação Avançada\Sistema eletrônico de gerenciamento\obj\Debug\net5.0-windows\Sistema eletrônico de gerenciamento.genruntimeconfig.cache
